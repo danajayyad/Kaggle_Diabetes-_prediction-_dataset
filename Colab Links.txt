@@ -1,0 +1,5 @@
+Diabetes:
+https://colab.research.google.com/drive/1SBOdIdI5Vcb5Mj-LKT4YQhsDWQ3niAnA?usp=sharing
+
+Corona:
+https://colab.research.google.com/drive/1I6NfnI-UUClOzhyqMFO4mDJUfNVX9Wf0?usp=sharing
